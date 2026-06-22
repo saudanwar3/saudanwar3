@@ -44,3 +44,4 @@ I am also the founder of [Safah Tech Oy](https://safahtech.fi), a Finland-regist
 ---
 
 Open to Senior, Lead, and Staff-level iOS, Flutter, and Mobile Engineering opportunities.
+
